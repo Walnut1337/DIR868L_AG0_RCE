@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Type: text/html; charset=utf-8
+Date: Sun, 22 Nov 2026 02:32:24 GMT
+Keep-Alive: timeout=4
+Proxy-Connection: keep-alive
+Server: WebServer
+
+fail

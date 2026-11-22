@@ -1,0 +1,10 @@
+# SHA-256
+firmware  9af5829b628d6274f4a7fe8f3926aaa7cc51760579aa4fa117c384f96b44a2c5  DIR868LB1_FW203b01.bin
+form_emailsetting  e9baf8a1a06c9c28eb3792ca15bff0ad78a7621ec63d8cc12c771de48d031127
+MYDLINKMAIL.php    b64d0ae2caddc8fb110d2b68473b49223269a9ffe37aa53c00cccfef71ef10ee
+header.php         802c8f848e102593f5587e7f8da196293ac58811f608cfe6179e96bb52ffedaf
+cgibin (2.03b01)   70c1f4c8e9b5a80d5cc504e465eb879f29de1db636c961f370a0805dc53603ee
+
+# physical evidence (raw file, not published)
+r357_full.gif MD5 839be6ae5c79a0b03e950f88d40dd2d6
+r357_full.gif SHA-256 c2081b795dfa80eeab986e2ab59daa971032264683efe81a147b796f45392cbb
